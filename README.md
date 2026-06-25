@@ -12,6 +12,10 @@ Built with HTML · CSS · JavaScript
 
 ![ToDoBuddy Preview](./readme-images/desktop.png "ToDoBuddy Desktop Preview")
 
+<br />
+
+### 🌐 [Live Preview →](https://todo-buddy-three.vercel.app/)
+
 </div>
 
 ---
